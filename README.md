@@ -6,7 +6,7 @@ My interests are:
 - networks
 - coding
 
-I'm currently in school at UCLL for applied informatics.
+I'm currently in school at UCLL for applied computer science.
 
 Currently my only project is the [casino](https://github.com/BenAvermate/casino) apart from hosting a server for friends.
 
